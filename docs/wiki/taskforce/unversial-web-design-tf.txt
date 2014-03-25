@@ -1,0 +1,46 @@
+목적
+
+웹 디자인의 철학으로써 Universal Web Design을 정립하는 것이 본 TF의 목적이다. 이를 위해서 도시환경, 건축 내·외부, 가구, 제품, 보조기구 등의 디자인에서 중요 철학으로 인식되고 있는 Universal Design의 개념을 웹에 맞게 재정의한다. 그 첫번째 결과물로 Universal Web Design 선언문을 작성하여, 웹에 개시하고 이를 국내외 웹 디자이너에게 알린다. 그 후 Universal Web Design 가이드를 작성하고 이를 웹 사이트에 개시한다. 또한 Creative Commons의 선진적인 활동에 이어가도록 노력한다.
+팀장 및 팀원 (가나다순)
+
+김연숙
+나인환
+박성진
+박지현
+배예나
+선진영
+장지윤
+'정상혁 (팀장)'
+조훈
+활동기간 및 핵심 목표 (각각 3개월)
+
+1기 : 2007. 03 ~ 05 : Universal Web Design 선언문 작성 2기 : 2007. 05 ~ 07 : Universal Web Design 가이드 및 웹 사이트 제작 활동내용 및 일정
+1기 : 3월 1일부터 5월 31일까지 활동
+
+Universal Design 이해 (2주)
+Universal Web Design 사례 수집/분석 (2주)
+Universal Web Design 재정의 (2주)
+Universal Web Design 선언문(ver.A) 작성 (2주)
+Universal Web Design 선언문(ver.B) 작성/홍보 (2주)
+Universal Web Design 선언문 작성 및 홍보 (2주)
+2기 : 6월 1일부터 7월 31일까지 활동
+
+Universal Web Design 가이드 제작 : 6주
+Universal Web Design 웹 사이트 제작/운영 : 6주
+미팅
+
+online : 구글 그룹 (비공개 운영)
+online : MSN 메신져
+offline : 각 활동내용 별로 미팅(총 6회 이상), 장소와 일정은 미정
+참고
+
+Universal Web Design by University of Washington
+Universal Web Design by University of North Carolina at Chapel Hill
+The Center for Universal Design (CUD)
+New York Public Library Style Guide
+Arts Access Inc
+DO-IT by University of Washington
+Designing More Usable Web Sites
+기타
+
+최종수정일 : 2010.08.26 00:20 | 최종작성자 : 조현진 (221.139.38.102)
